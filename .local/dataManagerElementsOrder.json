@@ -1,0 +1,110 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "atachs&Sequence_1",
+        "mails&Sequence_1",
+        "senderEmail&Sequence_1",
+        "tabelAngajati&Sequence_1",
+        "name&Sequence_1",
+        "email&Sequence_1",
+        "department&Sequence_1",
+        "position&Sequence_1",
+        "onboardingStream&Sequence_1",
+        "onboardingTasks&Sequence_1",
+        "nrAngajati&Sequence_1",
+        "listAngajatiOrder&Sequence_1",
+        "listAngajati&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ErrorMessage.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "sender"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Delete Employee.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "listaAngajati&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "name",
+        "email",
+        "department",
+        "position",
+        "onboardingStream",
+        "onboardingTasks"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Add Employee.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "department",
+        "email",
+        "name",
+        "onboardingStream",
+        "onboardingTasks",
+        "position"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Order.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "listaAngajati&Sequence_1",
+        "nrAngajati&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "senderEmail",
+        "email",
+        "name",
+        "onboardingStream",
+        "onboardingTasks",
+        "position",
+        "department"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Send.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "nrangajati&Sequence_1",
+        "listAngajati&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "name",
+        "senderEmail",
+        "email"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
